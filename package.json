@@ -1,0 +1,36 @@
+{
+  "name": "@barudakrosul/parse-buffer",
+  "version": "0.0.1",
+  "description": "Converts a Buffer in the format string into a Buffer object",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BarudakRosul/parse-buffer.git"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org",
+    "access": "public"
+  },
+  "keywords": [
+    "parse",
+    "buffer",
+    "string"
+  ],
+  "author": "Barudak Rosul",
+  "license": "MIT",
+  "types": "./index.d.ts",
+  "bugs": {
+    "url": "https://github.com/BarudakRosul/parse-buffer/issues"
+  },
+  "homepage": "https://github.com/BarudakRosul/parse-buffer#readme",
+  "funding": {
+    "url": "https://ko-fi.com/barudakrosul"
+  },
+  "devDependencies": {
+    "assert": "^2.1.0",
+    "mocha": "^10.7.3"
+  }
+}
