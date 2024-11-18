@@ -4,7 +4,7 @@
  * @param {string | Buffer} buffer - The input string of a Buffer to be parse.
  * @returns {Buffer} - The Buffer object.
  */
-function parseBuffer(buffer: string | Buffer): Buffer;
+declare function parseBuffer(buffer: string | Buffer): Buffer;
 
 // Exports module
 export default parseBuffer;
