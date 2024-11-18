@@ -1,7 +1,6 @@
 <div align="center">
-  <img src="./image/logo.svg" alt="Parse Buffer Logo" width="210"/>
   <h1>Parse Buffer</h1>
-  <p><a href="/docs/README-EN.md">English</a></p>
+  <p><a href="/docs/README.en.md">English</a></p>
   <p><a href="https://github.com/BarudakRosul/parse-buffer/issues/new?assignees=&labels=bug&projects=&template=bug_report.yml">Laporkan Bug</a> · <a href="https://github.com/BarudakRosul/parse-buffer/issues/new?assignees=&labels=enhancement&projects=&template=feature_request.yml">Ajukan Fitur</a></p>
   <p>
     <a href="https://github.com/BarudakRosul/parse-buffer/actions/workflows/test.yml"><img src="https://github.com/BarudakRosul/parse-buffer/actions/workflows/test.yml/badge.svg" alt="Testing"/></a>
@@ -58,11 +57,6 @@ const parseBuffer = require("@barudakrosul/parse-buffer");
 
 **2\. ESM (ECMAScript Modules)**
 ```javascript
-import parseBuffer from "@barudakrosul/parse-buffer";
-```
-
-**3\. TypeScript**
-```typescript
 import parseBuffer from "@barudakrosul/parse-buffer";
 ```
 
